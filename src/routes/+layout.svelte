@@ -3,7 +3,7 @@
   // @ts-ignore
   import { pwaInfo } from "virtual:pwa-info";
 
-  import "../app.css";
+  // import "../app.css";
 
   onMount(async () => {
     if (pwaInfo) {
